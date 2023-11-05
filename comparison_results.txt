@@ -2,386 +2,386 @@
 Processing dataset_1000_random.txt
 
 PeekSort - 1000 - random - Iteration: 1:
-Running Time: 2 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 2.4067 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - random - Iteration: 1:
-Running Time: 1 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 1.3673 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 1000 - random - Iteration: 2:
-Running Time: 1 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.2232 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - random - Iteration: 2:
-Running Time: 1 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.5804 ms
+Memory Used: 465440.0 bytes / 454.53125 kilobytes
 
 PeekSort - 1000 - random - Iteration: 3:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.2299 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - random - Iteration: 3:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.4374 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 1000 - random - Iteration: 4:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.2726 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - random - Iteration: 4:
-Running Time: 1 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 1.0012 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 1000 - random - Iteration: 5:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.2001 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - random - Iteration: 5:
-Running Time: 1 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.5545 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 --------------------------------------------------------
 Processing dataset_1000_sorted.txt
 
 PeekSort - 1000 - sorted - Iteration: 1:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.0115 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - sorted - Iteration: 1:
-Running Time: 1 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.4323 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 1000 - sorted - Iteration: 2:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.0161 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - sorted - Iteration: 2:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.8154 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 1000 - sorted - Iteration: 3:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.0506 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - sorted - Iteration: 3:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.2718 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 1000 - sorted - Iteration: 4:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.0173 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - sorted - Iteration: 4:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.1356 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 1000 - sorted - Iteration: 5:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.0092 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - sorted - Iteration: 5:
-Running Time: 0 ms
-Memory Used: 465384 bytes / 454 kilobytes
+Running Time: 0.1243 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 --------------------------------------------------------
 Processing dataset_1000_reversed.txt
 
 PeekSort - 1000 - reversed - Iteration: 1:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.1474 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - reversed - Iteration: 1:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.1286 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 1000 - reversed - Iteration: 2:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.0962 ms
+Memory Used: 465384.0 bytes / 454.4765625 kilobytes
 
 RadixSort - 1000 - reversed - Iteration: 2:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.2154 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 1000 - reversed - Iteration: 3:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.1276 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - reversed - Iteration: 3:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.1924 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 1000 - reversed - Iteration: 4:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.1435 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - reversed - Iteration: 4:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.2126 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 1000 - reversed - Iteration: 5:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.1162 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 1000 - reversed - Iteration: 5:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.2162 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 --------------------------------------------------------
 Processing dataset_10000_random.txt
 
 PeekSort - 10000 - random - Iteration: 1:
-Running Time: 1 ms
-Memory Used: 40016 bytes / 39 kilobytes
+Running Time: 1.1013 ms
+Memory Used: 40016.0 bytes / 39.078125 kilobytes
 
 RadixSort - 10000 - random - Iteration: 1:
-Running Time: 3 ms
-Memory Used: 160064 bytes / 156 kilobytes
+Running Time: 3.5842 ms
+Memory Used: 160064.0 bytes / 156.3125 kilobytes
 
 PeekSort - 10000 - random - Iteration: 2:
-Running Time: 1 ms
-Memory Used: 40016 bytes / 39 kilobytes
+Running Time: 1.4489 ms
+Memory Used: 40016.0 bytes / 39.078125 kilobytes
 
 RadixSort - 10000 - random - Iteration: 2:
-Running Time: 2 ms
-Memory Used: 160064 bytes / 156 kilobytes
+Running Time: 1.8849 ms
+Memory Used: 160064.0 bytes / 156.3125 kilobytes
 
 PeekSort - 10000 - random - Iteration: 3:
-Running Time: 3 ms
-Memory Used: 40016 bytes / 39 kilobytes
+Running Time: 1.7616 ms
+Memory Used: 40016.0 bytes / 39.078125 kilobytes
 
 RadixSort - 10000 - random - Iteration: 3:
-Running Time: 4 ms
-Memory Used: 160064 bytes / 156 kilobytes
+Running Time: 1.9491 ms
+Memory Used: 160064.0 bytes / 156.3125 kilobytes
 
 PeekSort - 10000 - random - Iteration: 4:
-Running Time: 1 ms
-Memory Used: 40016 bytes / 39 kilobytes
+Running Time: 1.5801 ms
+Memory Used: 40016.0 bytes / 39.078125 kilobytes
 
 RadixSort - 10000 - random - Iteration: 4:
-Running Time: 2 ms
-Memory Used: 160064 bytes / 156 kilobytes
+Running Time: 2.7376 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 10000 - random - Iteration: 5:
-Running Time: 2 ms
-Memory Used: 40016 bytes / 39 kilobytes
+Running Time: 1.0585 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 10000 - random - Iteration: 5:
-Running Time: 2 ms
-Memory Used: 160064 bytes / 156 kilobytes
+Running Time: 3.2071 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 --------------------------------------------------------
 Processing dataset_10000_sorted.txt
 
 PeekSort - 10000 - sorted - Iteration: 1:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.0343 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 10000 - sorted - Iteration: 1:
-Running Time: 1 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 3.0354 ms
+Memory Used: 160064.0 bytes / 156.3125 kilobytes
 
 PeekSort - 10000 - sorted - Iteration: 2:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.0398 ms
+Memory Used: 40016.0 bytes / 39.078125 kilobytes
 
 RadixSort - 10000 - sorted - Iteration: 2:
-Running Time: 1 ms
-Memory Used: 160064 bytes / 156 kilobytes
+Running Time: 3.686 ms
+Memory Used: 160064.0 bytes / 156.3125 kilobytes
 
 PeekSort - 10000 - sorted - Iteration: 3:
-Running Time: 0 ms
-Memory Used: 40016 bytes / 39 kilobytes
+Running Time: 0.0138 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 10000 - sorted - Iteration: 3:
-Running Time: 2 ms
-Memory Used: 160064 bytes / 156 kilobytes
+Running Time: 1.3107 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 10000 - sorted - Iteration: 4:
-Running Time: 0 ms
-Memory Used: 40016 bytes / 39 kilobytes
+Running Time: 0.048 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 10000 - sorted - Iteration: 4:
-Running Time: 2 ms
-Memory Used: 160064 bytes / 156 kilobytes
+Running Time: 1.2635 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 10000 - sorted - Iteration: 5:
-Running Time: 0 ms
-Memory Used: 40016 bytes / 39 kilobytes
+Running Time: 0.0306 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 10000 - sorted - Iteration: 5:
-Running Time: 1 ms
-Memory Used: 160064 bytes / 156 kilobytes
+Running Time: 2.2021 ms
+Memory Used: 446112.0 bytes / 435.65625 kilobytes
 
 --------------------------------------------------------
 Processing dataset_10000_reversed.txt
 
 PeekSort - 10000 - reversed - Iteration: 1:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.5763 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 10000 - reversed - Iteration: 1:
-Running Time: 1 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 1.3425 ms
+Memory Used: 80032.0 bytes / 78.15625 kilobytes
 
 PeekSort - 10000 - reversed - Iteration: 2:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.5591 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 10000 - reversed - Iteration: 2:
-Running Time: 1 ms
-Memory Used: 40016 bytes / 39 kilobytes
+Running Time: 0.9515 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 10000 - reversed - Iteration: 3:
-Running Time: 0 ms
-Memory Used: 40016 bytes / 39 kilobytes
+Running Time: 0.5448 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 10000 - reversed - Iteration: 3:
-Running Time: 0 ms
-Memory Used: 160064 bytes / 156 kilobytes
+Running Time: 0.7967 ms
+Memory Used: 446112.0 bytes / 435.65625 kilobytes
 
 PeekSort - 10000 - reversed - Iteration: 4:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.5024 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 RadixSort - 10000 - reversed - Iteration: 4:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 1.0426 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 PeekSort - 10000 - reversed - Iteration: 5:
-Running Time: 0 ms
-Memory Used: 0 bytes / 0 kilobytes
+Running Time: 0.5737 ms
+Memory Used: 446112.0 bytes / 435.65625 kilobytes
 
 RadixSort - 10000 - reversed - Iteration: 5:
-Running Time: 0 ms
-Memory Used: 120048 bytes / 117 kilobytes
+Running Time: 1.0404 ms
+Memory Used: 0.0 bytes / 0.0 kilobytes
 
 --------------------------------------------------------
 Processing dataset_100000_random.txt
 
 PeekSort - 100000 - random - Iteration: 1:
-Running Time: 15 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 11.8617 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - random - Iteration: 1:
-Running Time: 9 ms
-Memory Used: 2063400 bytes / 2015 kilobytes
+Running Time: 7.8342 ms
+Memory Used: 2082896.0 bytes / 2034.078125 kilobytes
 
 PeekSort - 100000 - random - Iteration: 2:
-Running Time: 11 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 11.0374 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - random - Iteration: 2:
-Running Time: 8 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 7.4101 ms
+Memory Used: 2097152.0 bytes / 2048.0 kilobytes
 
 PeekSort - 100000 - random - Iteration: 3:
-Running Time: 12 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 11.0026 ms
+Memory Used: 497088.0 bytes / 485.4375 kilobytes
 
 RadixSort - 100000 - random - Iteration: 3:
-Running Time: 9 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 8.768 ms
+Memory Used: 2097152.0 bytes / 2048.0 kilobytes
 
 PeekSort - 100000 - random - Iteration: 4:
-Running Time: 13 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 10.851 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - random - Iteration: 4:
-Running Time: 11 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 8.3343 ms
+Memory Used: 2097152.0 bytes / 2048.0 kilobytes
 
 PeekSort - 100000 - random - Iteration: 5:
-Running Time: 14 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 10.6272 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - random - Iteration: 5:
-Running Time: 13 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 7.4561 ms
+Memory Used: 2097152.0 bytes / 2048.0 kilobytes
 
 --------------------------------------------------------
 Processing dataset_100000_sorted.txt
 
 PeekSort - 100000 - sorted - Iteration: 1:
-Running Time: 0 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 0.2783 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - sorted - Iteration: 1:
-Running Time: 13 ms
-Memory Used: 2073976 bytes / 2025 kilobytes
+Running Time: 9.9057 ms
+Memory Used: 2000080.0 bytes / 1953.203125 kilobytes
 
 PeekSort - 100000 - sorted - Iteration: 2:
-Running Time: 0 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 0.4395 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - sorted - Iteration: 2:
-Running Time: 10 ms
-Memory Used: -36640208 bytes / -35781 kilobytes
+Running Time: 9.8106 ms
+Memory Used: 2000080.0 bytes / 1953.203125 kilobytes
 
 PeekSort - 100000 - sorted - Iteration: 3:
-Running Time: 0 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 0.1966 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - sorted - Iteration: 3:
-Running Time: 13 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 8.4305 ms
+Memory Used: 2330864.0 bytes / 2276.234375 kilobytes
 
 PeekSort - 100000 - sorted - Iteration: 4:
-Running Time: 0 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 0.1118 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - sorted - Iteration: 4:
-Running Time: 13 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 8.7356 ms
+Memory Used: 2097152.0 bytes / 2048.0 kilobytes
 
 PeekSort - 100000 - sorted - Iteration: 5:
-Running Time: 0 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 0.0744 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - sorted - Iteration: 5:
-Running Time: 13 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 7.2503 ms
+Memory Used: 2097152.0 bytes / 2048.0 kilobytes
 
 --------------------------------------------------------
 Processing dataset_100000_reversed.txt
 
 PeekSort - 100000 - reversed - Iteration: 1:
-Running Time: 0 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 5.8875 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - reversed - Iteration: 1:
-Running Time: 10 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 10.6973 ms
+Memory Used: 2000080.0 bytes / 1953.203125 kilobytes
 
 PeekSort - 100000 - reversed - Iteration: 2:
-Running Time: 0 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 5.4918 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - reversed - Iteration: 2:
-Running Time: 9 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 7.3446 ms
+Memory Used: 2097152.0 bytes / 2048.0 kilobytes
 
 PeekSort - 100000 - reversed - Iteration: 3:
-Running Time: 0 ms
-Memory Used: 497088 bytes / 485 kilobytes
+Running Time: 6.1055 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - reversed - Iteration: 3:
-Running Time: 9 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 7.9228 ms
+Memory Used: 2097152.0 bytes / 2048.0 kilobytes
 
 PeekSort - 100000 - reversed - Iteration: 4:
-Running Time: 0 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 5.7427 ms
+Memory Used: 400016.0 bytes / 390.640625 kilobytes
 
 RadixSort - 100000 - reversed - Iteration: 4:
-Running Time: 11 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 6.8068 ms
+Memory Used: 2097152.0 bytes / 2048.0 kilobytes
 
 PeekSort - 100000 - reversed - Iteration: 5:
-Running Time: 0 ms
-Memory Used: 400016 bytes / 390 kilobytes
+Running Time: 5.7561 ms
+Memory Used: 497088.0 bytes / 485.4375 kilobytes
 
 RadixSort - 100000 - reversed - Iteration: 5:
-Running Time: 10 ms
-Memory Used: 2097152 bytes / 2048 kilobytes
+Running Time: 8.0021 ms
+Memory Used: 2097152.0 bytes / 2048.0 kilobytes
 

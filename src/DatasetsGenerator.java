@@ -2,6 +2,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.Random;
 
 public class DatasetsGenerator {
@@ -20,10 +21,8 @@ public class DatasetsGenerator {
         // Simpan random dataset
         saveToFile(dataset, filePath, fileName + "_random.txt");
 
-        // Generate sorted dataset
-        for (int i = 0; i < size; i++) {
-            dataset[i] = i;
-        }
+        // Sort dataset
+        Arrays.sort(dataset);
 
         // Simpan sorted dataset
         saveToFile(dataset, filePath, fileName + "_sorted.txt");

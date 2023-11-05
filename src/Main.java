@@ -84,10 +84,10 @@ public class Main {
                 endMemory = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
             }
     
-            long duration = (endTime - startTime) / 1000000;  // convert to milliseconds
-            long memoryUsed = (endMemory - startMemory);
-            long memoryUsedInKB = (endMemory - startMemory) / 1024;  // convert to kilobytes
-    
+            double duration = ((double) (endTime - startTime)) / 1_000_000;  // convert to milliseconds
+            double memoryUsed = (double) endMemory - startMemory;
+            double memoryUsedInKB = memoryUsed / 1024;  // convert to kilobytes
+            
             writer.write(sortType + " - " + datasetSize + " - " + datasetType + " - Iteration: " + iteration + ":\n");
             writer.write("Running Time: " + duration + " ms\n");
             writer.write("Memory Used: " + memoryUsed + " bytes / " + memoryUsedInKB + " kilobytes\n\n");
